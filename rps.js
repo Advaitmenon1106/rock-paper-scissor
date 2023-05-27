@@ -70,6 +70,7 @@ while (counter<5){
     }
 
     counter++;
+    alert("The score so far:- \n Computer: "+ comp_score+ " | Player's Score: "+ player_score + " | Ties: " + ties);
 }
 
 alert("Final Scores:-\n Computer: "+ comp_score+ " | Player's Score: "+ player_score + " | Ties: " + ties);
